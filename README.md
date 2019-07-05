@@ -1,7 +1,7 @@
 # KscopeGridAPIsDemo
 
 The APEX Kscope 2019 Grid APIs demo applicaiton is in app/f97267.sql
-t if not all imges are included in the app.
+Most if not all imges are included in the app.
 
 The supporting tables and data are in the files:
  - EBA_DEMO_TF_EMP2.sql and 
